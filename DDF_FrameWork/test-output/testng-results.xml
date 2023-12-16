@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[NO f rows are ;;6]]>
+    </line>
+    <line>
+      <![CDATA[customer add sucess;;Customer-00000000080 Customer-00000000080]]>
+    </line>
+    <line>
+      <![CDATA[customer add sucess;;Customer-00000000081 Customer-00000000081]]>
+    </line>
+    <line>
+      <![CDATA[customer add sucess;;Customer-00000000082 Customer-00000000082]]>
+    </line>
+    <line>
+      <![CDATA[customer add sucess;;Customer-00000000083 Customer-00000000083]]>
+    </line>
+    <line>
+      <![CDATA[customer add sucess;;Customer-00000000084 Customer-00000000084]]>
+    </line>
+    <line>
+      <![CDATA[customer add sucess;;Customer-00000000085 Customer-00000000085]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-12-05T19:07:46 IST" name="Default suite" finished-at="2023-12-05T19:09:10 IST" duration-ms="83193">
+    <groups>
+    </groups>
+    <test started-at="2023-12-05T19:07:46 IST" name="Default test" finished-at="2023-12-05T19:09:10 IST" duration-ms="83193">
+      <class name="driverFactory.DriverScript2$DriverScript">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:driverFactory.DriverScript2$DriverScript@4c371370]" started-at="2023-12-05T19:07:46 IST" name="setUp" finished-at="2023-12-05T19:07:54 IST" duration-ms="8015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="starttest()[pri:0, instance:driverFactory.DriverScript2$DriverScript@4c371370]" started-at="2023-12-05T19:07:54 IST" name="starttest" finished-at="2023-12-05T19:09:08 IST" duration-ms="73620" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[NO f rows are ;;6]]>
+            </line>
+            <line>
+              <![CDATA[customer add sucess;;Customer-00000000080 Customer-00000000080]]>
+            </line>
+            <line>
+              <![CDATA[customer add sucess;;Customer-00000000081 Customer-00000000081]]>
+            </line>
+            <line>
+              <![CDATA[customer add sucess;;Customer-00000000082 Customer-00000000082]]>
+            </line>
+            <line>
+              <![CDATA[customer add sucess;;Customer-00000000083 Customer-00000000083]]>
+            </line>
+            <line>
+              <![CDATA[customer add sucess;;Customer-00000000084 Customer-00000000084]]>
+            </line>
+            <line>
+              <![CDATA[customer add sucess;;Customer-00000000085 Customer-00000000085]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- starttest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:driverFactory.DriverScript2$DriverScript@4c371370]" started-at="2023-12-05T19:09:08 IST" name="teardown" finished-at="2023-12-05T19:09:10 IST" duration-ms="1399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- driverFactory.DriverScript2$DriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
